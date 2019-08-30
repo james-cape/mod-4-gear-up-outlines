@@ -4,7 +4,7 @@
 
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
-Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1DI5Nf-58O8ot_Xjh4qRjurBo3NANs1dNi8pjECXWTzk/edit?usp=sharing
+Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1LyaoTpfS-fCToP0kH6i8w_ONcXZxh0GlyhFwM8wUdrI/edit?usp=sharing
   
 Name of your Gear Up Presentation: Reusing Code the Right Way
   
@@ -26,10 +26,6 @@ Name of your Gear Up Presentation: Reusing Code the Right Way
 #### How to avoid the pitfalls?
 * Go line by line
 * Use it as a template, not a copy/paste
-      
-    
-
-
 
 
   
@@ -49,10 +45,10 @@ Name of your Gear Up Presentation: Reusing Code the Right Way
 Checklist: 
 
 - [x] Does your Gear Up have a title?
-- [ ] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
-- [ ] Did you include an introduction of yourself?
-- [ ] Did you include a connection to gear up and why this talk is important to you?
-- [ ] Do you have engaging content?
-- [ ] Is your talk between 5-7 minutes?
-- [ ] Do you have at least three discussion questions?
-- [ ] Did you implement any of the feedback that was given to you about this talk?
+- [x] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
+- [x] Did you include an introduction of yourself?
+- [x] Did you include a connection to gear up and why this talk is important to you?
+- [x] Do you have engaging content?
+- [x] Is your talk between 5-7 minutes?
+- [x] Do you have at least three discussion questions?
+- [x] Did you implement any of the feedback that was given to you about this talk?
